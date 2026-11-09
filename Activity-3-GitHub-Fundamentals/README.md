@@ -13,3 +13,7 @@ This repository contains my engineering activities, projects and learning progre
 - Web development
 - Filmmaking and direction
 - Learning new technologies
+## Career Goals
+- Become a skilled software engineer.
+- Improve my problem-solving skills.
+- Build real-world projects.
